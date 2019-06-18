@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "End"; ObjectID = "13T-fX-n2P"; */
+"13T-fX-n2P.text" = "End";
+
+/* Class = "UILabel"; text = "Contact:"; ObjectID = "5Wk-vt-C0O"; */
+"5Wk-vt-C0O.text" = "Contact:";
+
+/* Class = "UILabel"; text = "Basic:"; ObjectID = "6sn-Bd-dXA"; */
+"6sn-Bd-dXA.text" = "Basic:";
+
+/* Class = "UILabel"; text = "Skills"; ObjectID = "C2X-UC-XYQ"; */
+"C2X-UC-XYQ.text" = "Skills";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "CwF-k6-4bE"; */
+"CwF-k6-4bE.text" = "Address:";
+
+/* Class = "UILabel"; text = "Role"; ObjectID = "DSl-O2-yX4"; */
+"DSl-O2-yX4.text" = "Role";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "GOo-FM-XRH"; */
+"GOo-FM-XRH.text" = "Detail";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "OLO-to-GSK"; */
+"OLO-to-GSK.text" = "Type";
+
+/* Class = "UILabel"; text = "Name Job"; ObjectID = "dY0-ST-aWo"; */
+"dY0-ST-aWo.text" = "Name Job";
+
+/* Class = "UILabel"; text = "Advanced:"; ObjectID = "kT2-Xm-LoB"; */
+"kT2-Xm-LoB.text" = "Advanced:";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "wK0-M2-GTr"; */
+"wK0-M2-GTr.text" = "Start";
